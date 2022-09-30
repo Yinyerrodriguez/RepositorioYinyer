@@ -1,0 +1,18 @@
+Windows 1.0 (1985)
+Windows 2.0 (1987)
+Windows 3.0 (1990)
+Windows NT (1993)
+Windows 95 (1995)
+Windows 98 (1998)
+Windows ME (2000)
+Windows NT
+Windows 2000 
+Windows 2000 server
+Windows XP (2001)
+Windows Server 2003
+Windows Vista (2007)
+Windows 7 (2009)
+Windows 8 (2012)
+Windows 8.1(2013)\
+Windows 10 (2015)
+Windows 11 (2021)
